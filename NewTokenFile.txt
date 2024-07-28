@@ -2,3 +2,4 @@ appended line
 new appended line
 another line
 new line
+new line 2
